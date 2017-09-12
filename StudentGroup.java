@@ -4,7 +4,7 @@ import java.util.Date;
 public class StudentGroup implements StudentArrayOpertion , Comparable {
 
 
-        List<String> students1 = new ArrayList<String>();
+        ArrayList<String> students1 = new ArrayList<String>();
 
 
 	private int id;
